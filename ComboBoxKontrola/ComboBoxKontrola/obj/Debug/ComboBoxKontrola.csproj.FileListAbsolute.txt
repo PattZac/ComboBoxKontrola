@@ -1,0 +1,11 @@
+C:\Users\ucenik\source\repos\ComboBoxKontrola\ComboBoxKontrola\bin\Debug\ComboBoxKontrola.exe.config
+C:\Users\ucenik\source\repos\ComboBoxKontrola\ComboBoxKontrola\bin\Debug\ComboBoxKontrola.exe
+C:\Users\ucenik\source\repos\ComboBoxKontrola\ComboBoxKontrola\bin\Debug\ComboBoxKontrola.pdb
+C:\Users\ucenik\source\repos\ComboBoxKontrola\ComboBoxKontrola\obj\Debug\ComboBoxKontrola.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\ComboBoxKontrola\ComboBoxKontrola\obj\Debug\ComboBoxKontrola.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\ComboBoxKontrola\ComboBoxKontrola\obj\Debug\ComboBoxKontrola.Form1.resources
+C:\Users\ucenik\source\repos\ComboBoxKontrola\ComboBoxKontrola\obj\Debug\ComboBoxKontrola.Properties.Resources.resources
+C:\Users\ucenik\source\repos\ComboBoxKontrola\ComboBoxKontrola\obj\Debug\ComboBoxKontrola.csproj.GenerateResource.cache
+C:\Users\ucenik\source\repos\ComboBoxKontrola\ComboBoxKontrola\obj\Debug\ComboBoxKontrola.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\ComboBoxKontrola\ComboBoxKontrola\obj\Debug\ComboBoxKontrola.exe
+C:\Users\ucenik\source\repos\ComboBoxKontrola\ComboBoxKontrola\obj\Debug\ComboBoxKontrola.pdb
